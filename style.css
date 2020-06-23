@@ -32,5 +32,22 @@
     color: green;
   }
   body{
-    background-color: antiquewhite;
+    background-color: rgb(243, 204, 154);
+  }
+  #center{
+    margin-left: 50%;
+    display: block;
+      }
+  nav ul li a{
+    color: brown;
+    text-decoration: none;
+    text-size-adjust: 200px;
+  
+  }    
+  li{
+    border:20px rgb(32, 29, 26) palegoldenrod;
+    display: inline;
+    margin-left : 500px ;
+    padding: 20px;
+    
   }
