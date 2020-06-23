@@ -1,0 +1,33 @@
+.text-red {
+    color: red;
+  }
+  .bg-blue {
+    background-color: blue;
+  }
+  p {
+    font-size:50px; 
+  }
+  li a {
+    color: red;
+  }
+  .text-color-orange {
+    color: orange;
+  }
+  #img1 {
+    width: 125px;
+  }
+  .img2 {
+    width:150px;
+  }
+  .display-inline li{
+    display: inline-block;
+  }
+  .p-border {
+    border: solid 1px;
+  }
+  .img11 {
+    width: 200px;
+  }
+  .text-color-green {
+    color: green;
+  }
