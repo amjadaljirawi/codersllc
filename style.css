@@ -13,19 +13,22 @@
   .text-color-orange {
     color: orange;
   }
+  .text-color-w {
+    color: whitesmoke;
+  }
   #img1 {
     width: 125px;
   }
   .img2 {
   
-    margin: 450px;
-    width:150px;
+    margin: 20px;
+    widows: 150px;
   }
   .display-inline li{
     display: inline-block;
   }
   .p-border {
-    border: solid 1px;
+    border: solid 5px;
   }
   .img11 {
     width: 200px;
@@ -47,6 +50,12 @@
   li{
     border:20px rgb(32, 29, 26) palegoldenrod;
     display: inline;
-    margin-left : 500px ;
+    margin-left : 400px ;
     padding: 20px;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
   }
