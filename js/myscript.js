@@ -11,7 +11,8 @@ function askForDonation() {
     } else {
       mas = "Whyyyy";
     }
-    document.write('<img id="img2" src="img/29027219_1646899498758564_1278825000555511808_o.jpg">');
+    document.write('<img class="img2" src="img/29027219_1646899498758564_1278825000555511808_o.jpg"> ' );
+    
   
   
     var txt;
